@@ -8,9 +8,5 @@ public class Main
         p1.eseguiVaccino(vaccino1);
         p1.eseguiVaccino(vaccino2);
         System.out.println(p1);
-
-
     }
-
-
 }
